@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sanjifoodapp-staging-103749-authRole",
+      "UnauthRoleArn": "arn:aws:iam::306604703888:role/amplify-sanjifoodapp-staging-103749-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::306604703888:role/amplify-sanjifoodapp-staging-103749-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-sanjifoodapp-staging-103749-deployment",
+      "UnauthRoleName": "amplify-sanjifoodapp-staging-103749-unauthRole",
+      "StackName": "amplify-sanjifoodapp-staging-103749",
+      "StackId": "arn:aws:cloudformation:ap-south-1:306604703888:stack/amplify-sanjifoodapp-staging-103749/8e64ea70-e4e7-11ed-9714-0a2e62466838",
+      "AmplifyAppId": "d7vr0qv6924w"
+    },
+    "categories": {
+      "auth": {
+        "SanjiFoodapp": {}
+      }
+    }
+  }
+}
